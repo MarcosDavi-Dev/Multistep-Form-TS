@@ -79,3 +79,17 @@ textarea {
 .actions button:hover {
   background-color: #cfcfcf;
 }
+
+footer {
+  padding: 1rem;
+  text-align: center;
+}
+
+#author h4 {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #8435de;
+}
